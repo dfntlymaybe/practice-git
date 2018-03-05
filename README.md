@@ -1,7 +1,7 @@
-# pactice-git
-fdvkjfsd
-tis i a test ..
 
+# practice-git
+
+this is a test ...
 
 vgf
 gfdngn
